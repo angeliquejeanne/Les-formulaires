@@ -1,4 +1,4 @@
-# Les-formulaires
+# Les formulaires
 
 Réalisation de trois formulaires pour le projet de fin de formation en groupe.
 
